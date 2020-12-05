@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        <TextBox Text="This is our changes" Margin="10 10 10 10"/>
+        
     </StackPanel>
 </Window>
